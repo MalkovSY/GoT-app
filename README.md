@@ -1,4 +1,4 @@
-SPA на React для практики работы с сервером, API использовалось anapioficeandfire.com
+SPA на React, работа с сервером. API использовалось anapioficeandfire.com
 
 # Getting Started with Create React App
 
